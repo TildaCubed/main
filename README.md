@@ -1,4 +1,4 @@
 Main Directory
 ====
 
-Where all of the miscellaneous stuff go.
+Where all of the miscellaneous stuff goes.
